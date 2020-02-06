@@ -1,0 +1,13 @@
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\obj\Debug\usb_HID.csprojAssemblyReference.cache
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\obj\Debug\usb_HID.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\bin\Debug\usb_HID.exe.config
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\bin\Debug\usb_HID.exe
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\bin\Debug\usb_HID.pdb
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\bin\Debug\HidLibrary.dll
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\bin\Debug\Theraot.Core.dll
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\bin\Debug\HidLibrary.pdb
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\obj\Debug\usb_HID.csproj.CopyComplete
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\obj\Debug\usb_HID.exe
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\obj\Debug\usb_HID.pdb
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\usb_HID\usb_HID\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
